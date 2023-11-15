@@ -1,0 +1,5 @@
+C:\Users\jawad\Documents\CSharp\FirstApp\bin\Debug\net7.0\publish\FirstApp.exe
+C:\Users\jawad\Documents\CSharp\FirstApp\bin\Debug\net7.0\publish\FirstApp.dll
+C:\Users\jawad\Documents\CSharp\FirstApp\bin\Debug\net7.0\publish\FirstApp.deps.json
+C:\Users\jawad\Documents\CSharp\FirstApp\bin\Debug\net7.0\publish\FirstApp.runtimeconfig.json
+C:\Users\jawad\Documents\CSharp\FirstApp\bin\Debug\net7.0\publish\FirstApp.pdb
